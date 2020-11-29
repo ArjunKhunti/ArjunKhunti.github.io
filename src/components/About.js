@@ -17,7 +17,7 @@ export default function About() {
             <Image src={MyPic} width="300" height="300" rounded />
           </Col>
           <Col sm={7} md={7}>
-            <h1 style={{ marginTop: "2%" }}>Hello!</h1>
+            <h1 style={{ marginTop: "2%" }}>Hello!!</h1>
             <p style={{ fontSize: "20px", marginTop: "3%" }}>
               My name is Arjun. I am a software engineer and a graphics
               designer. I enjoy listening to songs and teaching kids.
