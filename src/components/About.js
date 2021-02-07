@@ -27,7 +27,7 @@ export default function About() {
             <p>
               <Button
                 variant="primary"
-                href="https://github.com/ArjunKhunti/arjunkhunti.github.io/blob/master/src/docs/Resume.pdf"
+                href="https://github.com/ArjunKhunti/arjunkhunti.github.io/raw/master/src/docs/Resume.pdf"
                 download="Arjun's Resume.pdf"
               >
                 Download Resume
