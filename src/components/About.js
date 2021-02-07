@@ -27,7 +27,7 @@ export default function About() {
             <p>
               <Button
                 variant="primary"
-                href="../docs/resume.pdf"
+                href="../docs/Resume.pdf"
                 download="Arjun's Resume.pdf"
               >
                 Download Resume
